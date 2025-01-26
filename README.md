@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Collo2005
+- 👋 Hi, I’m @Colloh👌
 - 👀 I’m interested in studying coding on c++ and python
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...++ and python
